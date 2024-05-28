@@ -32,9 +32,3 @@ To reproduce the analysis:
 2. Ensure you have the necessary Python packages installed (see `requirements.txt`).
 3. Run the Jupyter notebook located in the `notebooks/` directory.
 
-### Requirements
-Create a `requirements.txt` file with the following content:
-
-```plaintext
-pandas
-matplotlib
